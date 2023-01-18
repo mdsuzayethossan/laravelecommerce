@@ -1,0 +1,128 @@
+.btn.custom-dropdown {
+    display: block;
+    color: #fb5d5d;
+    margin-top: 5px;
+    margin-left: -10px;
+}
+
+.custom_menu {
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #4c4c4c;
+}
+
+.custom_menu:hover {
+    color: #fb5d5d;
+}
+
+.shipping_check input {
+    padding-left: 0;
+}
+
+.discount_price {
+    border-top: none;
+}
+
+.active-color {
+    border: 3px solid red;
+}
+
+#availableproducts .stock-status {
+    font-size: 16px;
+    color: #ee3231;
+    line-height: 30px;
+    font-weight: 700;
+}
+
+.login-register-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.or_login_with {
+    text-align: center;
+}
+
+.login_button {
+    text-align: center;
+    margin: 20px 0;
+    background-color: #fb5d5d;
+    color: white;
+    margin: 10px auto;
+    padding: 7 0;
+}
+
+.login_button button {
+    color: white;
+}
+
+.third_party_facebook {
+    text-align: center;
+    margin: 20px 0;
+    background-color: #3b5998;
+    color: white;
+    margin: 10px auto;
+    padding: 5 0;
+}
+
+a.third_party_login_fb {
+    color: white;
+    font-size: 18px;
+    padding: 7px 75px;
+}
+
+a.third_party_login_fb i {
+    color: white;
+    margin-right: 20px;
+}
+
+.third_party_github {
+    text-align: center;
+    margin: 20px 0;
+    background-color: #171515;
+    color: white;
+    margin: 10px auto;
+    padding: 5 0;
+}
+
+a.third_party_login_gt {
+    color: white;
+    font-size: 18px;
+    padding: 7px 75px;
+}
+
+a.third_party_login_gt i {
+    color: white;
+    margin-right: 20px;
+}
+
+.third_party_google {
+    text-align: center;
+    margin: 20px 0;
+    background-color: #d34836;
+    color: white;
+    margin: 10px auto;
+    padding: 5 0;
+}
+
+a.third_party_login_g {
+    color: white;
+    font-size: 18px;
+    padding: 7px 82px;
+}
+
+a.third_party_login_g i {
+    color: white;
+    margin-right: 20px;
+}
+
+.password_reset .login-register-form {
+    display: block;
+}
+
+.login-register-wrapper .password_reset .login-register-form .button-box button {
+    padding: 12px 100px;
+}
